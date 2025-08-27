@@ -2,7 +2,7 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Análise Comparativa em Operações Long Short de Curto Prazo: Estratégias de Correlação e Recomendações de LLM** sob orientação do Professor **Ricardo de Carvalho Destro** e desenvolvido pelos seguintes alunos:
 
 - Ana Clara Dias Cruz
 - Carolina Stancov Cavicchio Miguel
